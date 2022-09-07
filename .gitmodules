@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "IRTest"]
+	path = IRTest
+	url = https://github.com/seewooli/irtest
+	shallow = true
+	registered = true
